@@ -4,13 +4,13 @@ Randomize ping numbers.
 
 Useless, just like the author.
 
-Direct Download Link: [dev.tharkiDirect Download Link: [dev.tharki.PingPong.asar](https://github.com/Tharki-God/PingPong/releases/latest/download/dev.tharki.PingPong.asar)
+Direct Download Link: [dev.tharkiDirect Download Link: [dev.tharki.PingPong.asar](https://github.com/YofukashiNo/PingPong/releases/latest/download/dev.tharki.PingPong.asar)
 
 Install Link:
 
-[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=Tharki-God/PingPong&source=github)
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=YofukashiNo/PingPong&source=github)
 
-![image](https://tharki-god.github.io/files-random-host/bdpluginsassets/pings.gif)
+![image](https://YofukashiNo.github.io/files-random-host/bdpluginsassets/pings.gif)
 
 > ## Disclaimer
 >

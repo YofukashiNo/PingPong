@@ -1,7 +1,13 @@
 import { webpack } from "replugged";
-import * as Types from "../types";
-export const GuildReadStateStore = webpack.getByProps<Types.GuildReadStateStore>(
-  "getMentionCount",
-  "getTotalMentionCount",
-);
-export const ReadStateStore = webpack.getByProps<Types.ReadStateStore>("getReadStatesByChannel");
+import Types from "../types";
+
+export const Modules: Types.Modules = {};
+
+Modules.loadModules = (): Promise<void> => {
+  Modules.GuildReadStateStore ??=
+    webpack.getByStoreName<Types.GuildReadStateStore>("GuildReadStateStore");
+  Modules.ReadStateStore ??= webpack.getByStoreName<Types.ReadStateStore>("ReadStateStore");
+  return Promise.resolve();
+};
+
+export default Modules;
