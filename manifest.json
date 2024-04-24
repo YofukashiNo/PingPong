@@ -9,7 +9,7 @@
     "discordID": "1121961711080050780",
     "github": "YofukashiNo"
   },
-  "version": "0.9.2",
+  "version": "1.0.0",
   "updater": {
     "type": "github",
     "id": "YofukashiNo/PingPong"
